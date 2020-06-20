@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.0.2)
-project(ros_tutorial)
+project(roslab0)
 
 ## Compile as C++11, supported in ROS Kinetic and newer
 # add_compile_options(-std=c++11)
@@ -122,7 +122,7 @@ include_directories(
 
 ## Declare a C++ library
 # add_library(${PROJECT_NAME}
-#   src/${PROJECT_NAME}/ros_tutorial.cpp
+#   src/${PROJECT_NAME}/roslab0.cpp
 # )
 
 ## Add cmake target dependencies of the library
