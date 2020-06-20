@@ -1,4 +1,4 @@
 <launch>
-  <node name="listener" pkg="ros_tutorial" type="listener.py" output="screen"/>
-  <node name="talker" pkg="ros_tutorial" type="talker.py" output="screen"/>
+  <node name="listener" pkg="roslab0" type="listener.py" output="screen"/>
+  <node name="talker" pkg="roslab0" type="talker.py" output="screen"/>
 </launch>
